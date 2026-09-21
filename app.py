@@ -20,4 +20,4 @@ else:
     if st.button("Make Questions"):
         st.write("1. What is main idea?")
         st.write("2. Explain in your words")
-        st.write("3. Give real example?")
+        st.write("3. Give real example
